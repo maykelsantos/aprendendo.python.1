@@ -1,1 +1,1 @@
-print('Olá, mundo!')
+print('Olá, mundo! Jesus ama vocês.')
